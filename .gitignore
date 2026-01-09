@@ -1,12 +1,2 @@
-# Ignore Python cache
-__pycache__/
-*.pyc
-
-# Ignore Virtual Environment
-venv/
-
-# Ignore MLflow logs
-mlruns/
-
-# Ignore local models (unless you dvc add them)
 models/
+/data
